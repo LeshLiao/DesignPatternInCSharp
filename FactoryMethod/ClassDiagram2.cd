@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryMethod.ContinentFactory">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContinentFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.AfricaFactory">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <AssociationLine Name="_lion" Type="FactoryMethod.Lion" ManuallyRouted="true">
+      <Path>
+        <Point X="6.25" Y="3.45" />
+        <Point X="6.25" Y="3.876" />
+        <Point X="2.25" Y="3.876" />
+        <Point X="2.25" Y="3.226" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AfricaFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_lion" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FactoryMethod.AmericaFactory">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <AssociationLine Name="_wolf" Type="FactoryMethod.Wolf" ManuallyRouted="true">
+      <Path>
+        <Point X="8.25" Y="3.45" />
+        <Point X="8.25" Y="3.726" />
+        <Point X="6.333" Y="3.726" Type="JumpStart" />
+        <Point X="6.167" Y="3.726" Type="JumpEnd" />
+        <Point X="4.25" Y="3.726" />
+        <Point X="4.25" Y="3.226" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AmericaFactory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_wolf" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FactoryMethod.Carnivore">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carnivore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Lion">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryMethod.Wolf">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wolf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

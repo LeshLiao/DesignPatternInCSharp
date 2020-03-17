@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\bin\Debug\TemplateMethod.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\bin\Debug\TemplateMethod.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\obj\Debug\TemplateMethod.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\TemplateMethod\obj\Debug\TemplateMethod.pdb

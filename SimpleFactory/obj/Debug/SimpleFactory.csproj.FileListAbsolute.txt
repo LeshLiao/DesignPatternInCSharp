@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\obj\Debug\SimpleFactory.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\SimpleFactory\obj\Debug\SimpleFactory.csprojAssemblyReference.cache

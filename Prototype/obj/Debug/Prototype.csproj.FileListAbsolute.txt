@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\bin\Debug\Prototype.exe.config
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\bin\Debug\Prototype.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\bin\Debug\Prototype.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\obj\Debug\Prototype.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\obj\Debug\Prototype.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache

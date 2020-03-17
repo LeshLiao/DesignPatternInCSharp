@@ -1,0 +1,9 @@
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\bin\Debug\Strategy.exe.config
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\bin\Debug\Strategy.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\bin\Debug\Strategy.pdb
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.Form1.resources
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.Properties.Resources.resources
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.csproj.GenerateResource.cache
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.exe
+D:\Git\VisualStudioProject\Design Pattern Practice\Strategy\obj\Debug\Strategy.pdb
