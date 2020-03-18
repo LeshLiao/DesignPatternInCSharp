@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\bin\Debug\Builder.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\bin\Debug\Builder.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\bin\Debug\Builder.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\obj\Debug\Builder.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Builder\obj\Debug\Builder.pdb
