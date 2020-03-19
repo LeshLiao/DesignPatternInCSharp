@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\bin\Debug\Command.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\bin\Debug\Command.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\bin\Debug\Command.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\obj\Debug\Command.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Command\obj\Debug\Command.pdb

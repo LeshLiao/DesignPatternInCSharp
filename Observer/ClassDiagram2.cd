@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Observer.Delegate.IBM" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegate\IBM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Delegate.Investor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegate\Investor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Observer.Delegate.Stock" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAQAAAAAAAAAAAAAAAIAAAABAAAAAAAAACAA=</HashCode>
+      <FileName>Delegate\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Event.IBM" Collapsed="true">
+    <Position X="2.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event\IBM.cs</FileName>
+      <NewMemberFileName>Delegate\IBM.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Event.Investor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event\Investor.cs</FileName>
+      <NewMemberFileName>Delegate\Investor.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Observer.Event.Stock" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAQAAAAAAAAAAAAAAAIAAAABAAAAAAAAACAA=</HashCode>
+      <FileName>Event\Stock.cs</FileName>
+      <NewMemberFileName>Delegate\Stock.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Observer.Delegate.IInvestor" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Delegate\IInvestor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Observer.Event.IInvestor" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event\IInvestor.cs</FileName>
+      <NewMemberFileName>Delegate\IInvestor.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
