@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Invoker&#xD;&#xA;">
+    <Position X="3.267" Y="0.5" Height="0.3" Width="0.842" />
+  </Comment>
+  <Comment CommentText="Receiver&#xD;&#xA;">
+    <Position X="3.275" Y="3.567" Height="0.3" Width="0.842" />
+  </Comment>
+  <Class Name="Command.Calculator">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command.CalculatorCommand">
+    <Position X="6" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAABAQAAAAAIAAAAAAMAAAAAAAAAAEAIAA=</HashCode>
+      <FileName>CalculatorCommand.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_calculator" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Command.Command">
+    <Position X="6" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Command.Program">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAQA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Command.User">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAABAAAAAAAIAABAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_commands" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

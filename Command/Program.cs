@@ -8,20 +8,15 @@ namespace Command
 {
     class Program
     {
+        static User user;
         static void Main(string[] args)
         {
-            // Create user and let her compute
-
-            User user = new User();
-
-            // User presses calculator buttons
-
+            user = new User();
+            /*
             user.Compute('+', 100);
             user.Compute('-', 50);
             user.Compute('*', 10);
             user.Compute('/', 2);
-
-            // Undo 4 commands
 
             user.Undo(4);
 
@@ -29,12 +24,13 @@ namespace Command
             user.Compute('+', 100);
             user.Compute('+', 100);
             user.Undo(3);
+            */
 
-            // Redo 3 commands
+            user.Compute('+', 100);
+            user.Undo(1);
+            user.Compute('+', 50);
+            user.Undo(1);
 
-            //user.Redo(3);
-
-            // Wait for user
 
             Console.ReadKey();
         }
