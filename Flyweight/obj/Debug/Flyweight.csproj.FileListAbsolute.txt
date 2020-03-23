@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\bin\Debug\Flyweight.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\bin\Debug\Flyweight.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\bin\Debug\Flyweight.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\obj\Debug\Flyweight.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Flyweight\obj\Debug\Flyweight.pdb

@@ -1,0 +1,5 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Memento\bin\Debug\Memento.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Memento\bin\Debug\Memento.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Memento\bin\Debug\Memento.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Memento\obj\Debug\Memento.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Memento\obj\Debug\Memento.pdb

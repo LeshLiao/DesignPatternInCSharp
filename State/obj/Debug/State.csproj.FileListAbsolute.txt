@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\bin\Debug\State.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\bin\Debug\State.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\bin\Debug\State.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\obj\Debug\State.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\obj\Debug\State.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\State\obj\Debug\State.pdb

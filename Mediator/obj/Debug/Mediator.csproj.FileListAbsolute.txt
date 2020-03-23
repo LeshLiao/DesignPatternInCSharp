@@ -1,0 +1,6 @@
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\obj\Debug\Mediator.csprojAssemblyReference.cache
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\bin\Debug\Mediator.exe.config
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\bin\Debug\Mediator.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\bin\Debug\Mediator.pdb
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\obj\Debug\Mediator.exe
+D:\Git\VisualStudioProject\DesignPatternInCSharp\Mediator\obj\Debug\Mediator.pdb
